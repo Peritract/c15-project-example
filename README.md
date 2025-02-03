@@ -1,2 +1,11 @@
 # c15-project-example
-A classic description
+
+A small paragraph of description.
+
+## Setup & installation
+
+## Development
+
+## Contributors
+
+- [Dan](https://github.com/users/peritract)
